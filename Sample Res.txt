@@ -1,0 +1,41 @@
+SUMMARY OF QUALIFICATIONS
+
+8 years of experience as Systems Analyst with focus in business software and systems.
+Strong background working with clients, designers, and programmers to identify requirements, provide cost analysis, assist with creating user interfaces, and develop implementation timelines.
+In-depth understanding of project lifecycle, including all phases of system and software development.
+Proven track record in testing, quality assurance, and networking.
+Superior communication, presentation, and interpersonal skills.
+TECHNICAL SKILLS
+
+Programming:	SQL, Java, HTML/XML, C++, C, UNIX, Perl, Sybase
+Applications:	Microsoft Office Suite, Visio, MS Project, SAP, COBOL, Rational Rose
+Databases:	Access, Oracle, ASCII, DB2
+Platforms:	Microsoft Vista/XP/2003, Mac, Linux, Solaris
+Networking:	Ethernet, TCP/IP, VPN, LAN/WAN
+PROFESSIONAL EXPERIENCE
+
+ABC Co. Tucson, AZ	
+2007 – Present
+Systems Analyst for this IT firm with 1,500 employees.	
+Maintain and support systems for data warehouse and business intelligence (BI) initiatives, including software, servers, and networks.
+Perform data analysis, testing, debugging, audits, disaster recovery, and problem resolution.
+Research and evaluate technology solutions and present recommendations for improved system operations.
+Create data verification methods and comply with standard system procedures.
+DEF Inc., Phoenix, AZ	
+2003 – 2007
+Systems Analyst for this major manufacturer with 2,000 employees.
+Tested applications and resolved complex problems throughout software development life cycle (SDLC), including preparing detailed program specifications.
+Researched and proposed applications and systems, presenting recommendations to CIO.
+Played key role in design and development activities to ensure software requirements were met.
+Liaised with clients and vendors to resolve day-to-day problems and make process changes.
+Participated in design analysis and pre- and post-installation reviews.
+HJK Co., Phoenix, AZ	
+2000 – 2003
+Systems/Business Analyst for this pharmaceutical company with 1,200 employees.
+Conducted feasibility studies of Web-based applications and systems.
+Responsible for maintaining and updating technical documentation for software and systems.
+Assisted development and production teams by determining application design flaws, thereby optimizing SDLC.
+Created and maintained user account profiles and passwords, ensuring company-wide security.
+EDUCATION
+Bachelor of Science in Information Systems
+University of Arizona, Tucson, AZ (2000)
